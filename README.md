@@ -1,5 +1,6 @@
 The Google Play Store Apps Dataset contains a wealth of information about various mobile applications available on the Google Play Store.
 Let’s delve into the details of some key columns:
+
 1.	App Name (Column: App):
 o	This column provides the names of the apps listed on the Play Store.
 o	It’s essential for identifying individual apps and understanding their popularity.
@@ -24,4 +25,5 @@ o	Useful for analyzing the impact of pricing on app adoption.
 8.	Content Rating (Column: Content Rating):
 o	Content rating categorizes apps based on their suitability for different age groups (e.g., Everyone, Teen, Mature, etc.).
 o	Important for understanding app audience demographics.
+
 These columns provide valuable insights for data analysis, market research, and app development.
